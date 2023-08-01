@@ -5,3 +5,6 @@ MyScientificCalculatorGUI is an intuitive &amp; user-friendly scientific calcula
 1) Basic Operations: Simply click the calculator buttons to enter numbers and perform basic arithmetic operations (addition, subtraction, multiplication, division).
 
 2) Scientific Functions: Utilize the scientific functions available on the interface, such as trigonometric functions (sin, cos, tan), logarithms (log, ln), exponentiation (x^y), and more.
+
+
+Thank you for your interest in MyScientificCalculatorGUI. I hope this calculator proves to be a valuable tool for your mathematical calculations. Should you have any questions or suggestions, please don't hesitate to reach out. Happy calculating!
